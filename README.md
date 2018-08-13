@@ -1,4 +1,5 @@
 # devops-aula02
-# jhonny deep
+# Chris evans
 # Leonardo di caprio
 # Paul Walker
+# Dwayne Jhonson
